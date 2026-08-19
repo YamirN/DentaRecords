@@ -183,7 +183,7 @@ Registro guiado de una nueva atención: anamnesis, examen clínico, diagnóstico
 **Yamir Pejesreye Montero** — Desarrollador Full Stack
 
 - GitHub: [github.com/YamirN](https://github.com/YamirN)
-- LinkedIn: [linkedin.com/in/yamirn](https://linkedin.com/in/yamirn)
+- Correo: [apejesreyemontero@gmail.com](mailto:apejesreyemontero@gmail.com)
 
 ---
 
