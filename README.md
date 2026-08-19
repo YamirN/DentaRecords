@@ -96,7 +96,7 @@ Panel de control con:
 Vista detallada con identificación, antecedentes, alergias, hábitos y medicamentos del paciente.
 
 <p align="center">
-  <img src="capturas/perfil-clinico.png" alt="Perfil Clínico del Paciente" width="90%" />
+  <img src="capturas/perfil_clinico.png" alt="Perfil Clínico del Paciente" width="90%" />
 </p>
 
 ### Odontograma Digital
@@ -110,21 +110,7 @@ Mapa dental interactivo con registro de hallazgos por superficie y estados clín
 Línea de tiempo de atenciones con alertas críticas, filtros por fecha y detalle de cada sesión.
 
 <p align="center">
-  <img src="capturas/historial-clinico.png" alt="Historia Clínica" width="90%" />
-</p>
-
-### Consulta Inicial (Wizard)
-Formulario guiado de 6 pasos para registrar una nueva consulta: Anamnesis → Odontograma → Diagnóstico → Evolución Clínica → Plan de Tratamiento → Resumen.
-
-<p align="center">
-  <img src="capturas/consulta-inicial.png" alt="Consulta Inicial" width="90%" />
-</p>
-
-### Detalle de Sesión Clínica
-Vista completa de una sesión con motivo, examen clínico, diagnóstico CIE-10, plan de trabajo, tratamiento y evolución.
-
-<p align="center">
-  <img src="capturas/detalle-sesion.png" alt="Detalle de Sesión" width="90%" />
+  <img src="capturas/HC.png" alt="Historia Clínica" width="90%" />
 </p>
 
 ---
