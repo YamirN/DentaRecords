@@ -113,6 +113,13 @@ Línea de tiempo de atenciones con alertas críticas, filtros por fecha y detall
   <img src="capturas/HC.png" alt="Historia Clínica" width="90%" />
 </p>
 
+### Nueva Consulta (Anamnesis)
+Registro guiado de una nueva atención: anamnesis, examen clínico, diagnóstico, odontograma, plan de trabajo y evolución.
+
+<p align="center">
+  <img src="capturas/nueva_consulta.png" alt="Nueva Consulta" width="90%" />
+</p>
+
 ---
 
 ## Stack Tecnológico
